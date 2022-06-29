@@ -1,3 +1,4 @@
+import "./button.styles.scss";
 /*
 3 button types:
 default
